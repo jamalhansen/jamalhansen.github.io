@@ -14,8 +14,8 @@ Fortunately I got feedback from [mgmatola](http://exercism.io/mgmatola) that clu
 
 Using these clarified my intent that I am looking for exceptions rather than the rule. 
 
-'''
+```
 const validateKey = (key) => {
   return key.split('').every(val => values.includes(val));
 }
-'''
+```
