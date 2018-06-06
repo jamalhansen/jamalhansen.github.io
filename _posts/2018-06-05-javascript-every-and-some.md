@@ -1,10 +1,22 @@
 ---
 layout: post
 title: Every and some in javascript
-image: /img/2018-06-05-array-find-js.png
+image: /img/js-logo-sm.png
 ---
 
 Last night when [working through the simple cipher exercise](http://exercism.io/submissions/688481148d0b4ec8900838675a547de2) on [exercism.io](https://exercism.io), I submitted a solution that an array filter to find characters that I didn't want in an array. 
+
+```
+const validateKey = (key) => {
+  const invalid = key.split('').filter(val => !values.includes(val));
+
+  if (invalid.length) {
+    return false;
+  };
+
+  return true;
+}
+```
 
 This seemed clunky because I didn't need to find all the values that were invalid, I only needed to find one to throw an error. 
 
