@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: 100 Days of Clojure
 image: /img/clojure-logo.jpg
 tags:
  - clojure
