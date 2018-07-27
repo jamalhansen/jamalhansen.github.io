@@ -18,4 +18,4 @@ There is also a site that is written in Clojure and offers puzzles specifically 
 
 * [4Clojure.com](http://www.4clojure.com/) - [My profile](http://www.4clojure.com/user/jamalhansen)
 
-I hope to utilize these sites in addition to [my reading]({% post_url 2018-07-25-clojure-reading-list-day-0002 %}) over the next 100 days to practice my Clojure skills. 
+I hope to utilize these sites in addition to [my reading]({% post_url 2018-07-25-clojure-reading-materials-day-0002.md %}) over the next 100 days to practice my Clojure skills. 
